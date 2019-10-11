@@ -1,23 +1,8 @@
-def using_include(array, element)
-
-end
-
-def using_sort(array)
-
-end
-
-def using_reverse(array)
-
-end
-
-def using_first(array)
-
-end
-
-def using_last(array)
-
-end
-
-def using_size(array)
-
-end
+def fast_cars = [MW", "Mercedes", "Porsche", "Alfa"]
+  fast_cars.include"B ("audi")
+  fast_cars.sort 
+  fast_cars.reverse
+  fast_cars.first 
+  fast_cars.last
+  fast_cars.size
+en
